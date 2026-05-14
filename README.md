@@ -102,60 +102,36 @@ class AmanHammad:
   <thead align="center">
     <tr>
       <td><b>Project</b></td>
-      <td><b>Stars</b></td>
-      <td><b>Forks</b></td>
-      <td><b>Issues</b></td>
       <td><b>Description</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/amanhammadK/AI-Slop-Linter-for-code"><b>AI-Slop-Linter</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/amanhammadK/AI-Slop-Linter-for-code?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/forks/amanhammadK/AI-Slop-Linter-for-code?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/issues/amanhammadK/AI-Slop-Linter-for-code?style=flat-square&labelColor=1C1E26" /></td>
       <td>Catches AI hallucinations and LLM antipatterns in codebases</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/commit-message-ai"><b>commit-message-ai</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/amanhammadK/commit-message-ai?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/forks/amanhammadK/commit-message-ai?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/issues/amanhammadK/commit-message-ai?style=flat-square&labelColor=1C1E26" /></td>
       <td>Writes git commit messages using AI</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/model-hop"><b>model-hop</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/amanhammadK/model-hop?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/forks/amanhammadK/model-hop?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/issues/amanhammadK/model-hop?style=flat-square&labelColor=1C1E26" /></td>
       <td>Compare GPT-4, Claude and Gemini side by side</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/code-review-agent"><b>code-review-agent</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/amanhammadK/code-review-agent?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/forks/amanhammadK/code-review-agent?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/issues/amanhammadK/code-review-agent?style=flat-square&labelColor=1C1E26" /></td>
       <td>Auto-reviews your PRs with AI</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/json-to-schema"><b>json-to-schema</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/amanhammadK/json-to-schema?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/forks/amanhammadK/json-to-schema?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/issues/amanhammadK/json-to-schema?style=flat-square&labelColor=1C1E26" /></td>
       <td>Convert JSON to Pydantic, TypeScript or Zod schemas</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/killport"><b>killport</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/amanhammadK/killport?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/forks/amanhammadK/killport?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/issues/amanhammadK/killport?style=flat-square&labelColor=1C1E26" /></td>
       <td>Kill whichever process is hogging your port</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/prompt-optimizer"><b>prompt-optimizer</b></a></td>
-      <td><img src="https://img.shields.io/github/stars/amanhammadK/prompt-optimizer?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/forks/amanhammadK/prompt-optimizer?style=flat-square&labelColor=1C1E26" /></td>
-      <td><img src="https://img.shields.io/github/issues/amanhammadK/prompt-optimizer?style=flat-square&labelColor=1C1E26" /></td>
       <td>A/B test and version your LLM prompts</td>
     </tr>
   </tbody>
@@ -200,13 +176,15 @@ class AmanHammad:
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| AI apps shipped | **6+** |
-| Solo-developed | **100%** |
-| Domains | **B2B SaaS, Marketplace Dev, App Development, AI Agents** |
-| Years building | **3+** |
-| Languages | **Python, TypeScript, JavaScript** |
+| App | Stack |
+|-----|-------|
+| **AI-Slop-Linter** | Python, LangChain, GitHub Actions |
+| **commit-message-ai** | Python, OpenAI, CLI |
+| **model-hop** | Python, LiteLLM, Streamlit |
+| **code-review-agent** | TypeScript, GitHub Actions |
+| **json-to-schema** | Python, Pydantic |
+| **killport** | Python, CLI |
+| **prompt-optimizer** | Python, LangChain, Streamlit |
 
 </div>
 
