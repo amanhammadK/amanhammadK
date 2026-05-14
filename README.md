@@ -1,12 +1,5 @@
-<!--
-â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘  Aman Hammad -- AI Engineer                                  â•‘
-â•‘  Fullstack Systems, AI Architecture & B2B SaaS               â•‘
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
--->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3500&pause=700&color=8B0000&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Aman+Hammad;AI+Engineer+%7C+Fullstack+%26+AI+Architecture;I+ship+AI+apps+from+concept+to+production" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3500&pause=700&color=FFD700&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aman+Hammad;AI+Engineer+%7C+Fullstack+%26+AI+Architecture;I+ship+AI+apps+from+concept+to+production" />
 </h1>
 
 <p align="center">
@@ -17,14 +10,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanhammadK&style=flat-square&color=8B0000&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/amanhammadK?style=flat-square&color=8B0000" />
-  <img src="https://img.shields.io/github/stars/amanhammadK?style=flat-square&color=8B0000" />
+  <img src="https://komarev.com/ghpvc/?username=amanhammadK&style=flat-square&color=FFD700&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/amanhammadK?style=flat-square&color=FFD700&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/amanhammadK?style=flat-square&color=FFD700&label=STARS" />
 </p>
 
 <br/>
-
-<!-- ==================== ABOUT ==================== -->
 
 <details open>
   <summary><b>About Me</b></summary>
@@ -32,7 +23,7 @@
 
 ```python
 class AmanHammad:
-    """AI Engineer -- fullstack systems, AI architecture, B2B SaaS, production solutions."""
+    """I build AI systems that actually work."""
 
     def __init__(self):
         self.role = "AI Engineer"
@@ -40,24 +31,21 @@ class AmanHammad:
         self.stack = {
             "languages":   ["Python", "TypeScript", "JavaScript"],
             "ai_agents":   ["LangChain", "LangGraph", "LiteLLM", "OpenAI", "Claude"],
-            "backend":     ["FastAPI", "Flask", "Chainlit", "Streamlit"],
-            "infra":       ["Docker", "PostgreSQL", "Qdrant", "n8n"],
-            "frontend":    ["React", "Next.js", "Tailwind"],
-            "tools":       ["Git", "GitHub Actions", "Linux", "CI/CD"],
+            "backend":     ["FastAPI", "Flask", "Express.js", "Chainlit", "Streamlit"],
+            "databases":   ["PostgreSQL", "MongoDB", "Qdrant"],
+            "frontend":    ["React", "Next.js", "Angular", "Tailwind"],
+            "infra":       ["Docker", "n8n", "GitHub Actions", "Linux"],
         }
-        self.current_focus = "Building AI agents that act, not just answer"
-        self.philosophy = "Ship fast, let code speak"
-        self.status = "Open to Senior/Staff AI Engineer roles"
+        self.now = "Building agents that act, not just answer"
+        self.vibe = "Ship fast. Let code speak."
 
     def mission(self):
-        return "Design and ship AI-powered systems that solve real problems"
+        return "Solve real problems with AI. Nothing else."
 ```
 
 </details>
 
 <br/>
-
-<!-- ==================== TECH STACK ==================== -->
 
 <details open>
   <summary><b>Tech Stack</b></summary>
@@ -77,6 +65,7 @@ class AmanHammad:
 
   <b>Backend & APIs</b><br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Chainlit-FF6B6B?style=flat-square&logo=chainlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
@@ -86,13 +75,15 @@ class AmanHammad:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <br/><br/>
 
-  <b>Infrastructure & DevOps</b><br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <b>Databases & DevOps</b><br/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-FF0000?style=flat-square&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-212121?style=flat-square&logo=n8n&logoColor=EA7600" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -101,8 +92,6 @@ class AmanHammad:
 </details>
 
 <br/>
-
-<!-- ==================== PROJECTS ==================== -->
 
 <details open>
   <summary><b>Projects</b></summary>
@@ -124,49 +113,49 @@ class AmanHammad:
       <td><img src="https://img.shields.io/github/stars/amanhammadK/AI-Slop-Linter-for-code?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/forks/amanhammadK/AI-Slop-Linter-for-code?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/issues/amanhammadK/AI-Slop-Linter-for-code?style=flat-square&labelColor=1C1E26" /></td>
-      <td>Detects AI hallucinations & LLM antipatterns in code</td>
+      <td>Catches AI hallucinations and LLM antipatterns in codebases</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/commit-message-ai"><b>commit-message-ai</b></a></td>
       <td><img src="https://img.shields.io/github/stars/amanhammadK/commit-message-ai?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/forks/amanhammadK/commit-message-ai?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/issues/amanhammadK/commit-message-ai?style=flat-square&labelColor=1C1E26" /></td>
-      <td>AI-powered git commit message generator</td>
+      <td>Writes git commit messages using AI</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/model-hop"><b>model-hop</b></a></td>
       <td><img src="https://img.shields.io/github/stars/amanhammadK/model-hop?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/forks/amanhammadK/model-hop?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/issues/amanhammadK/model-hop?style=flat-square&labelColor=1C1E26" /></td>
-      <td>Compare LLMs side-by-side (OpenAI, Claude, Gemini)</td>
+      <td>Compare GPT-4, Claude and Gemini side by side</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/code-review-agent"><b>code-review-agent</b></a></td>
       <td><img src="https://img.shields.io/github/stars/amanhammadK/code-review-agent?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/forks/amanhammadK/code-review-agent?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/issues/amanhammadK/code-review-agent?style=flat-square&labelColor=1C1E26" /></td>
-      <td>GitHub Action that auto-reviews PRs with AI</td>
+      <td>Auto-reviews your PRs with AI</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/json-to-schema"><b>json-to-schema</b></a></td>
       <td><img src="https://img.shields.io/github/stars/amanhammadK/json-to-schema?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/forks/amanhammadK/json-to-schema?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/issues/amanhammadK/json-to-schema?style=flat-square&labelColor=1C1E26" /></td>
-      <td>JSON to Pydantic / TypeScript / Zod schemas</td>
+      <td>Convert JSON to Pydantic, TypeScript or Zod schemas</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/killport"><b>killport</b></a></td>
       <td><img src="https://img.shields.io/github/stars/amanhammadK/killport?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/forks/amanhammadK/killport?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/issues/amanhammadK/killport?style=flat-square&labelColor=1C1E26" /></td>
-      <td>Kill the process hogging your port -- one command</td>
+      <td>Kill whichever process is hogging your port</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/prompt-optimizer"><b>prompt-optimizer</b></a></td>
       <td><img src="https://img.shields.io/github/stars/amanhammadK/prompt-optimizer?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/forks/amanhammadK/prompt-optimizer?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/issues/amanhammadK/prompt-optimizer?style=flat-square&labelColor=1C1E26" /></td>
-      <td>A/B test and optimize LLM prompts with versioning</td>
+      <td>A/B test and version your LLM prompts</td>
     </tr>
   </tbody>
 </table>
@@ -174,8 +163,6 @@ class AmanHammad:
 </details>
 
 <br/>
-
-<!-- ==================== STATS ==================== -->
 
 <details open>
   <summary><b>GitHub Analytics</b></summary>
@@ -206,8 +193,6 @@ class AmanHammad:
 
 <br/>
 
-<!-- ==================== SHIPPED ==================== -->
-
 <details open>
   <summary><b>What I've Shipped</b></summary>
   <br/>
@@ -216,10 +201,10 @@ class AmanHammad:
 
 | Metric | Value |
 |--------|-------|
-| AI Apps Shipped | **6+** |
-| Solo-Developed | **100%** |
+| AI apps shipped | **6+** |
+| Solo-developed | **100%** |
 | Domains | **AI Agents, DevTools, B2B SaaS, FinTech, Mental Health** |
-| Years Building | **3+** |
+| Years building | **3+** |
 | Languages | **Python, TypeScript, JavaScript** |
 
 </div>
@@ -228,15 +213,13 @@ class AmanHammad:
 
 <br/>
 
-<!-- ==================== CONNECT ==================== -->
-
 <details open>
   <summary><b>Let's Connect</b></summary>
   <br/>
 
 <div align="center">
 
-Looking for:
+Currently looking for:
 
 | Role | Type |
 |------|------|
@@ -246,7 +229,7 @@ Looking for:
 
 <br/>
 
-**Reach me:** [`amanhammadk@gmail.com`](mailto:amanhammadk@gmail.com)
+Reach me: [`amanhammadk@gmail.com`](mailto:amanhammadk@gmail.com)
 
 <br/>
 
@@ -259,11 +242,3 @@ Looking for:
 </div>
 
 </details>
-
-<br/>
-
-<!-- ==================== FOOTER ==================== -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/amanhammadK/amanhammadK/main/.github/assets/footer.svg" width="100%" />
-</div>
