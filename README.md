@@ -1,158 +1,207 @@
+<!--
+â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
+â•‘  Aman Hammad â€” AI Engineer                                  â•‘
+â•‘  Agentic Systems & FinTech | Open Source Contributor         â•‘
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+-->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Hammad;AI+Engineer;Agentic+Systems+%26+FinTech;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3500&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Hammad;AI+Engineer+%7C+Agentic+Systems+%26+FinTech;Open+Source+Contributor;I+ship+AI+apps+from+concept+to+production" />
 </h1>
 
-<h3 align="center">
-  AI Engineer building Agentic Systems & FinTech tools | Python, LangChain, FastAPI
-</h3>
+<p align="center">
+  <a href="https://github.com/amanhammadK"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/amanhammadk"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:amanhammadk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/amanhammadk"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
 
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amanhammadk)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/amanhammadK)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amanhammadk@gmail.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amanhammadk)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanhammadK&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/amanhammadK?style=flat-square&color=58A6FF" />
+  <img src="https://img.shields.io/github/stars/amanhammadK?style=flat-square&color=58A6FF" />
+</p>
 
 <br/>
 
-<!-- MAIN DIVIDER -->
+<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• ABOUT â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
 
-## ðŸ‘¨â€ðŸ’» About Me
+<details open>
+  <summary><b>ðŸ§‘â€ðŸ’» About Me</b></summary>
+  <br/>
 
 ```python
 class AmanHammad:
+    """AI Engineer building production-grade agentic systems."""
+
     def __init__(self):
         self.role = "AI Engineer"
         self.specialty = "Agentic Systems & FinTech"
-        self.stack = ["Python", "LangChain", "LangGraph", "FastAPI", "Docker"]
+        self.stack = {
+            "languages":   ["Python", "TypeScript", "JavaScript"],
+            "ai_agents":   ["LangChain", "LangGraph", "LiteLLM", "OpenAI", "Claude"],
+            "backend":     ["FastAPI", "Flask", "Chainlit", "Streamlit"],
+            "infra":       ["Docker", "PostgreSQL", "Qdrant", "n8n"],
+            "frontend":    ["React", "Next.js", "Tailwind"],
+            "tools":       ["Git", "GitHub Actions", "Linux"],
+        }
         self.current_focus = "Building AI agents that act, not just answer"
         self.philosophy = "Ship fast, let code speak"
-        self.open_to_work = True  # Senior/Staff AI Engineer roles
+        self.status = "Open to Senior/Staff AI Engineer roles ðŸš€"
 
     def mission(self):
-        return "Building intelligent systems that solve real business problems ðŸš€"
+        return "Building intelligent systems that solve real business problems"
 ```
 
-- ðŸ”­ **Currently building:** [FinanceGPT](https://github.com/amanhammadK/FinanceGPT) â€” AI-powered financial intelligence platform
-- ðŸŒ± **Deep-diving into:** Agentic workflows with LangGraph, production AI systems
-- ðŸ‘¯ **Looking to collaborate on:** AI developer tools, open-source agent frameworks
-- ðŸ’¬ **Ask me about:** Python, LangChain, AI agents, LLM integration, system design
-- âš¡ **Fun fact:** I shipped 6 AI apps from concept to production as a solo developer
+</details>
 
 <br/>
 
-<!-- TECH STACK -->
+<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• TECH STACK â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
 
-## ðŸ› ï¸ Tech Stack
+<details open>
+  <summary><b>ðŸ› ï¸ Tech Stack</b></summary>
+  <br/>
 
-### ðŸ§  AI & Agents
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6C47FF?style=for-the-badge&logo=langgraph&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<p align="center">
+  <b>ðŸ¤– AI & Agents</b><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-6C47FF?style=flat-square&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-FF6B35?style=flat-square&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiteLLM-6C47FF?style=flat-square&logo=litellm&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <br/><br/>
 
-### âš™ï¸ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-6C47FF?style=for-the-badge&logo=litellm&logoColor=white)
-![Chainlit](https://img.shields.io/badge/Chainlit-FF6B6B?style=for-the-badge&logo=chainlit&logoColor=white)
+  <b>âš¡ Backend & APIs</b><br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainlit-FF6B6B?style=flat-square&logo=chainlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <br/><br/>
 
-### ðŸ—„ï¸ Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF0000?style=for-the-badge&logo=qdrant&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-212121?style=for-the-badge&logo=n8n&logoColor=EA7600)
+  <b>ðŸ—„ï¸ Infrastructure</b><br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF0000?style=flat-square&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-212121?style=flat-square&logo=n8n&logoColor=EA7600" />
+  <br/><br/>
 
-### ðŸŒ Frontend & Full-Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  <b>ðŸŽ¨ Frontend</b><br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <br/><br/>
 
-### ðŸ› ï¸ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  <b>ðŸ”§ Tools</b><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
-<br/>
-
-<!-- FLAGSHIP PROJECTS -->
-
-## ðŸš€ Flagship Projects
-
-### [FinanceGPT](https://github.com/amanhammadK/FinanceGPT) â€” AI Financial Intelligence Platform
-*Conversational trading analysis with AI advisory agent*
-
-[![Stars](https://img.shields.io/github/stars/amanhammadK/FinanceGPT?style=social)]()
-[![Forks](https://img.shields.io/github/forks/amanhammadK/FinanceGPT?style=social)]()
-
-```
-ðŸ“Š Market Analysis â†’ ðŸ¤– AI Advisor â†’ ðŸ’¡ Trading Signals â†’ ðŸ“ˆ Risk Assessment
-```
-
-- Context-aware chatbot for real-time market queries
-- Automated support/resistance detection and chart pattern recognition
-- Risk analysis and next-move recommendations
-- **Stack:** Python, FastAPI, LiteLLM, OpenAI API, Docker
-
----
-
-### [AI-Slop-Linter-for-code](https://github.com/amanhammadK/AI-Slop-Linter-for-code) â€” AI Code Quality
-*Detects hallucinations, lazy placeholders, and LLM antipatterns in your code*
-
-- Signature-based detection of common LLM-generated code issues
-- CI-ready â€” integrate into any pipeline
-- Pure Python, zero-trust architecture
-- **Stack:** Python, CLI, CI/CD
-
----
-
-### [BlurBox](https://github.com/amanhammadK/BlurBox) â€” Anxiety-Reducing Email Client
-*Glassmorphism email client with AI-powered safety summaries*
-
-- Visibility slider to gradually unblur stressful content
-- Panic Mode toggle for instant emotional safety
-- AI pre-scans emails for aggressive language
-- **Stack:** React, Python, LLM Integration, Glassmorphism UI
-
----
-
-### [Roast My Portfolio](https://github.com/amanhammadK/roast-my-portfolio) â€” Gamified Finance
-*LLM-powered dramatic feedback on stock portfolios*
-
-- Humor-driven portfolio analysis
-- Gamified UX with roast-style responses
-- Real market data integration
-- **Stack:** Python, Chainlit, OpenAI API
+</details>
 
 <br/>
 
-<!-- OPEN SOURCE CONTRIBUTIONS -->
+<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• FLAGSHIP PROJECTS â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
 
-## ðŸ¤ Open Source Contributions
+<details open>
+  <summary><b>ðŸš€ Flagship Projects</b></summary>
+  <br/>
 
-| Project | Type | Status |
-|---------|------|--------|
-| [LangChain](https://github.com/langchain-ai/langchain) | Documentation & Tests | ðŸ”„ In Progress |
-| [FastAPI](https://github.com/tiangolo/fastapi) | Issue Triage | ðŸ”„ In Progress |
-| [Streamlit](https://github.com/streamlit/streamlit) | Bug Reports | ðŸ”„ Planned |
-
-> *Active open-source contributor â€” building in public, learning in public.*
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>ðŸ“¦ Project</b></td>
+      <td><b>â­ Stars</b></td>
+      <td><b>ðŸ´ Forks</b></td>
+      <td><b>ðŸ› Issues</b></td>
+      <td><b>ðŸ“„ Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/amanhammadK/AI-Slop-Linter-for-code"><b>AI-Slop-Linter</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/amanhammadK/AI-Slop-Linter-for-code?style=flat-square&labelColor=1C1E26" /></td>
+      <td><img src="https://img.shields.io/github/forks/amanhammadK/AI-Slop-Linter-for-code?style=flat-square&labelColor=1C1E26" /></td>
+      <td><img src="https://img.shields.io/github/issues/amanhammadK/AI-Slop-Linter-for-code?style=flat-square&labelColor=1C1E26" /></td>
+      <td>Detects hallucinations & LLM antipatterns in code</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/amanhammadK/commit-message-ai"><b>commit-message-ai</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/amanhammadK/commit-message-ai?style=flat-square&labelColor=1C1E26" /></td>
+      <td><img src="https://img.shields.io/github/forks/amanhammadK/commit-message-ai?style=flat-square&labelColor=1C1E26" /></td>
+      <td><img src="https://img.shields.io/github/issues/amanhammadK/commit-message-ai?style=flat-square&labelColor=1C1E26" /></td>
+      <td>AI-powered git commit message generator</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/amanhammadK/model-hop"><b>model-hop</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/amanhammadK/model-hop?style=flat-square&labelColor=1C1E26" /></td>
+      <td><img src="https://img.shields.io/github/forks/amanhammadK/model-hop?style=flat-square&labelColor=1C1E26" /></td>
+      <td><img src="https://img.shields.io/github/issues/amanhammadK/model-hop?style=flat-square&labelColor=1C1E26" /></td>
+      <td>Compare LLMs side-by-side (OpenAI, Claude, Gemini)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/amanhammadK/burn-my-portfolio"><b>burn-my-portfolio</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/amanhammadK/burn-my-portfolio?style=flat-square&labelColor=1C1E26" /></td>
+      <td><img src="https://img.shields.io/github/forks/amanhammadK/burn-my-portfolio?style=flat-square&labelColor=1C1E26" /></td>
+      <td><img src="https://img.shields.io/github/issues/amanhammadK/burn-my-portfolio?style=flat-square&labelColor=1C1E26" /></td>
+      <td>AI roasts your stock portfolio mercilessly</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/amanhammadK/code-review-agent"><b>code-review-agent</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/amanhammadK/code-review-agent?style=flat-square&labelColor=1C1E26" /></td>
+      <td><img src="https://img.shields.io/github/forks/amanhammadK/code-review-agent?style=flat-square&labelColor=1C1E26" /></td>
+      <td><img src="https://img.shields.io/github/issues/amanhammadK/code-review-agent?style=flat-square&labelColor=1C1E26" /></td>
+      <td>GitHub Action that auto-reviews PRs with AI</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/amanhammadK/json-to-schema"><b>json-to-schema</b></a></td>
+      <td><img src="https://img.shields.io/github/stars/amanhammadK/json-to-schema?style=flat-square&labelColor=1C1E26" /></td>
+      <td><img src="https://img.shields.io/github/forks/amanhammadK/json-to-schema?style=flat-square&labelColor=1C1E26" /></td>
+      <td><img src="https://img.shields.io/github/issues/amanhammadK/json-to-schema?style=flat-square&labelColor=1C1E26" /></td>
+      <td>JSON â†’ Pydantic / TypeScript / Zod schemas</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
-<!-- STATS -->
+</details>
 
-## ðŸ“Š GitHub Analytics
+<br/>
+
+<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• OPEN SOURCE â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+
+<details open>
+  <summary><b>ðŸŒ Open Source Contributions</b></summary>
+  <br/>
+
+| Repository | PR / Issue | Status |
+|------------|-----------|--------|
+| [streamlit/streamlit](https://github.com/streamlit/streamlit) | [`#15186`](https://github.com/streamlit/streamlit/pull/15186) â€” Add `size` parameter to `camera_input` | âœ… Merged |
+| [streamlit/streamlit](https://github.com/streamlit/streamlit) | [`#4320`](https://github.com/streamlit/streamlit/issues/4320) â€” Consistent camera input dimensions | ðŸ“Œ Reported |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | *Exploring contribution opportunities* | ðŸ” In Progress |
+| [tiangolo/fastapi](https://github.com/tiangolo/fastapi) | *Exploring contribution opportunities* | ðŸ” In Progress |
+
+> *Building in public. Learning in public. Every PR makes the ecosystem better.*
+
+</details>
+
+<br/>
+
+<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• GITHUB STATS â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+
+<details open>
+  <summary><b>ðŸ“Š GitHub Analytics</b></summary>
+  <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanhammadK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanhammadK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanhammadK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -162,64 +211,100 @@ class AmanHammad:
 
 <br/>
 
-<!-- PROJECT METRICS -->
-
-## ðŸ“ˆ What I've Shipped
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>6+</strong><br/>
-      <sub>AI Apps Shipped</sub>
-    </td>
-    <td align="center">
-      <strong>100%</strong><br/>
-      <sub>Solo-Developed</sub>
-    </td>
-    <td align="center">
-      <strong>4</strong><br/>
-      <sub>Domains Covered</sub>
-    </td>
-    <td align="center">
-      <strong>3+</strong><br/>
-      <sub>Years Building</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- BLOG / WRITING -->
-
-## ðŸ“ Latest Writings
-
-- *Coming soon â€” Building in public: My journey from zero to shipping 6 AI apps*
-- *Agentic AI patterns: Building agents that act, not just answer*
-
-<br/>
-
-<!-- CONNECT -->
-
-## ðŸ¤ Let's Connect
-
 <div align="center">
-
-I'm open to:
-- ðŸ’¼ **Senior/Staff AI Engineer roles**
-- ðŸš€ **Founding Engineer positions at AI startups**
-- ðŸ‘¥ **Open-source collaborations**
-- ðŸŽ¤ **Speaking / writing opportunities**
-
-**ðŸ“« Reach me:** [amanhammadk@gmail.com](mailto:amanhammadk@gmail.com)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=amanhammadK&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
 <br/>
 
-<!-- FOOTER -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanhammadK&theme=tokyonight&hide_border=true&bg_color=0d1117&area=true" />
+</div>
+
+</details>
+
+<br/>
+
+<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• SHIPPED METRICS â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+
+<details open>
+  <summary><b>ðŸ“¦ What I've Shipped</b></summary>
+  <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanhammadK&style=flat-square&color=blue" alt="Profile views" />
-  <br/><br/>
-  <sub>âš¡ Last updated: 2026-05-14 â€¢ Built with â¤ï¸ and lots of â˜•</sub>
+
+| Metric | Value |
+|--------|-------|
+| ðŸ§  AI Apps Shipped | **6+** |
+| ðŸ—ï¸ Solo-Developed | **100%** |
+| ðŸŒ Domains Covered | **4** (FinTech, Developer Tools, Mental Health, AI Agents) |
+| ðŸ“… Years Building | **3+** |
+| ðŸ“ Open Source PRs | **Active** |
+| ðŸŽ¯ Languages | **Python, TypeScript, JavaScript** |
+
+</div>
+
+</details>
+
+<br/>
+
+<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• LATEST WRITINGS â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+
+<details>
+  <summary><b>âœï¸ Latest Writings</b></summary>
+  <br/>
+
+- *Coming soon â€” Building in public: My journey from zero to shipping 6 AI apps*
+- *Agentic AI patterns: Building agents that act, not just answer*
+- *Why every AI engineer should contribute to open source*
+
+</details>
+
+<br/>
+
+<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• LET'S CONNECT â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+
+<details open>
+  <summary><b>ðŸ¤ Let's Connect</b></summary>
+  <br/>
+
+<div align="center">
+
+I'm actively looking for:
+
+| Role | Type |
+|------|------|
+| ðŸš€ **Senior/Staff AI Engineer** | Full-time |
+| ðŸ—ï¸ **Founding Engineer** | AI Startup |
+| ðŸŒ **Open Source Collaborator** | Community |
+| ðŸŽ¤ **Speaking / Writing** | Tech Content |
+
+<br/>
+
+**ðŸ“¬ Reach me:** [`amanhammadk@gmail.com`](mailto:amanhammadk@gmail.com)
+
+<br/>
+
+<p>
+  <a href="https://github.com/amanhammadK"><img src="https://img.shields.io/badge/GitHub-amanhammadK-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://linkedin.com/in/amanhammadk"><img src="https://img.shields.io/badge/LinkedIn-amanhammadk-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/amanhammadk"><img src="https://img.shields.io/badge/Twitter-@amanhammadk-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+</p>
+
+</div>
+
+</details>
+
+<br/>
+
+<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• FOOTER â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+
+<div align="center">
+  <sub>
+    <img src="https://komarev.com/ghpvc/?username=amanhammadK&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+    &nbsp;|&nbsp; 
+    <sub>ðŸ“… Profile last refreshed: **May 2026**</sub>
+    &nbsp;|&nbsp;
+    <sub>âš¡ Built with â¤ï¸, â˜•, and lots of ðŸŽ§</sub>
+  </sub>
 </div>
