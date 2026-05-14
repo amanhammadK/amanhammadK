@@ -1,12 +1,12 @@
 <!--
 â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘  Aman Hammad â€” AI Engineer                                  â•‘
-â•‘  Fullstack Systems & AI Architecture | Open Source           â•‘
+â•‘  Aman Hammad -- AI Engineer                                  â•‘
+â•‘  Fullstack Systems, AI Architecture & B2B SaaS               â•‘
 â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3500&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Hammad;AI+Engineer+%7C+Fullstack+%26+AI+Architecture;Open+Source+Contributor;I+ship+AI+apps+from+concept+to+production" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3500&pause=700&color=8B0000&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Aman+Hammad;AI+Engineer+%7C+Fullstack+%26+AI+Architecture;Open+Source+Contributor;I+ship+AI+apps+from+concept+to+production" />
 </h1>
 
 <p align="center">
@@ -17,26 +17,26 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanhammadK&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/amanhammadK?style=flat-square&color=58A6FF" />
-  <img src="https://img.shields.io/github/stars/amanhammadK?style=flat-square&color=58A6FF" />
+  <img src="https://komarev.com/ghpvc/?username=amanhammadK&style=flat-square&color=8B0000&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/amanhammadK?style=flat-square&color=8B0000" />
+  <img src="https://img.shields.io/github/stars/amanhammadK?style=flat-square&color=8B0000" />
 </p>
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• ABOUT â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ==================== ABOUT ==================== -->
 
 <details open>
-  <summary><b>ðŸ§‘â€ðŸ’» About Me</b></summary>
+  <summary><b>About Me</b></summary>
   <br/>
 
 ```python
 class AmanHammad:
-    """AI Engineer â€” fullstack systems, AI architecture, production solutions."""
+    """AI Engineer -- fullstack systems, AI architecture, B2B SaaS, production solutions."""
 
     def __init__(self):
         self.role = "AI Engineer"
-        self.focus = "Fullstack Systems & AI Architecture"
+        self.focus = "Fullstack Systems, AI Architecture & B2B SaaS"
         self.stack = {
             "languages":   ["Python", "TypeScript", "JavaScript"],
             "ai_agents":   ["LangChain", "LangGraph", "LiteLLM", "OpenAI", "Claude"],
@@ -47,7 +47,7 @@ class AmanHammad:
         }
         self.current_focus = "Building AI agents that act, not just answer"
         self.philosophy = "Ship fast, let code speak"
-        self.status = "Open to Senior/Staff AI Engineer roles ðŸš€"
+        self.status = "Open to Senior/Staff AI Engineer roles"
 
     def mission(self):
         return "Design and ship AI-powered systems that solve real problems"
@@ -57,14 +57,14 @@ class AmanHammad:
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• TECH STACK â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ==================== TECH STACK ==================== -->
 
 <details open>
-  <summary><b>ðŸ› ï¸ Tech Stack</b></summary>
+  <summary><b>Tech Stack</b></summary>
   <br/>
 
 <p align="center">
-  <b>ðŸ¤– AI & Agents</b><br/>
+  <b>AI & Agents</b><br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-6C47FF?style=flat-square&logo=langgraph&logoColor=white" />
@@ -75,21 +75,21 @@ class AmanHammad:
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <br/><br/>
 
-  <b>âš¡ Backend & APIs</b><br/>
+  <b>Backend & APIs</b><br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Chainlit-FF6B6B?style=flat-square&logo=chainlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
   <br/><br/>
 
-  <b>ðŸŽ¨ Frontend & Full-Stack</b><br/>
+  <b>Frontend & Full-Stack</b><br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <br/><br/>
 
-  <b>ðŸ—„ï¸ Infrastructure & DevOps</b><br/>
+  <b>Infrastructure & DevOps</b><br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-FF0000?style=flat-square&logo=qdrant&logoColor=white" />
@@ -102,20 +102,20 @@ class AmanHammad:
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• PROJECTS â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ==================== PROJECTS ==================== -->
 
 <details open>
-  <summary><b>ðŸš€ Projects</b></summary>
+  <summary><b>Projects</b></summary>
   <br/>
 
 <table>
   <thead align="center">
     <tr>
-      <td><b>ðŸ“¦ Project</b></td>
-      <td><b>â­ Stars</b></td>
-      <td><b>ðŸ´ Forks</b></td>
-      <td><b>ðŸ› Issues</b></td>
-      <td><b>ðŸ“„ Description</b></td>
+      <td><b>Project</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
+      <td><b>Issues</b></td>
+      <td><b>Description</b></td>
     </tr>
   </thead>
   <tbody>
@@ -152,14 +152,14 @@ class AmanHammad:
       <td><img src="https://img.shields.io/github/stars/amanhammadK/json-to-schema?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/forks/amanhammadK/json-to-schema?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/issues/amanhammadK/json-to-schema?style=flat-square&labelColor=1C1E26" /></td>
-      <td>JSON â†’ Pydantic / TypeScript / Zod schemas</td>
+      <td>JSON to Pydantic / TypeScript / Zod schemas</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/killport"><b>killport</b></a></td>
       <td><img src="https://img.shields.io/github/stars/amanhammadK/killport?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/forks/amanhammadK/killport?style=flat-square&labelColor=1C1E26" /></td>
       <td><img src="https://img.shields.io/github/issues/amanhammadK/killport?style=flat-square&labelColor=1C1E26" /></td>
-      <td>Kill the process hogging your port â€” one command</td>
+      <td>Kill the process hogging your port -- one command</td>
     </tr>
     <tr>
       <td><a href="https://github.com/amanhammadK/prompt-optimizer"><b>prompt-optimizer</b></a></td>
@@ -175,29 +175,29 @@ class AmanHammad:
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• OPEN SOURCE â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ==================== OPEN SOURCE ==================== -->
 
 <details open>
-  <summary><b>ðŸŒ Open Source Contributions</b></summary>
+  <summary><b>Open Source Contributions</b></summary>
   <br/>
 
 | Repository | PR / Issue | Status |
 |------------|-----------|--------|
-| [streamlit/streamlit](https://github.com/streamlit/streamlit) | [`#15186`](https://github.com/streamlit/streamlit/pull/15186) â€” Add `size` parameter to `camera_input` | âœ… Merged |
-| [streamlit/streamlit](https://github.com/streamlit/streamlit) | [`#4320`](https://github.com/streamlit/streamlit/issues/4320) â€” Consistent camera input dimensions | ðŸ“Œ Reported |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | *Exploring contribution opportunities* | ðŸ” In Progress |
-| [tiangolo/fastapi](https://github.com/tiangolo/fastapi) | *Exploring contribution opportunities* | ðŸ” In Progress |
+| [streamlit/streamlit](https://github.com/streamlit/streamlit) | [`#15186`](https://github.com/streamlit/streamlit/pull/15186) -- Add `size` parameter to `camera_input` | Merged |
+| [streamlit/streamlit](https://github.com/streamlit/streamlit) | [`#4320`](https://github.com/streamlit/streamlit/issues/4320) -- Consistent camera input dimensions | Reported |
+| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Exploring contribution opportunities | In Progress |
+| [tiangolo/fastapi](https://github.com/tiangolo/fastapi) | Exploring contribution opportunities | In Progress |
 
-> *Building in public. Learning in public. Every PR makes the ecosystem better.*
+> Building in public. Learning in public. Every PR makes the ecosystem better.
 
 </details>
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• STATS â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ==================== STATS ==================== -->
 
 <details open>
-  <summary><b>ðŸ“Š GitHub Analytics</b></summary>
+  <summary><b>GitHub Analytics</b></summary>
   <br/>
 
 <div align="center">
@@ -225,22 +225,22 @@ class AmanHammad:
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• SHIPPED â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ==================== SHIPPED ==================== -->
 
 <details open>
-  <summary><b>ðŸ“¦ What I've Shipped</b></summary>
+  <summary><b>What I've Shipped</b></summary>
   <br/>
 
 <div align="center">
 
 | Metric | Value |
 |--------|-------|
-| ðŸ§  AI Apps Shipped | **6+** |
-| ðŸ—ï¸ Solo-Developed | **100%** |
-| ðŸŒ Domains | **AI Agents, DevTools, Mental Health, SaaS** |
-| ðŸ“… Years Building | **3+** |
-| ðŸ“ Open Source PRs | **Active** |
-| ðŸŽ¯ Languages | **Python, TypeScript, JavaScript** |
+| AI Apps Shipped | **6+** |
+| Solo-Developed | **100%** |
+| Domains | **AI Agents, DevTools, B2B SaaS, FinTech, Mental Health** |
+| Years Building | **3+** |
+| Open Source PRs | **Active** |
+| Languages | **Python, TypeScript, JavaScript** |
 
 </div>
 
@@ -248,10 +248,10 @@ class AmanHammad:
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• CONNECT â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ==================== CONNECT ==================== -->
 
 <details open>
-  <summary><b>ðŸ¤ Let's Connect</b></summary>
+  <summary><b>Let's Connect</b></summary>
   <br/>
 
 <div align="center">
@@ -260,14 +260,14 @@ Looking for:
 
 | Role | Type |
 |------|------|
-| ðŸš€ **Senior/Staff AI Engineer** | Full-time |
-| ðŸ—ï¸ **Founding Engineer** | AI Startup |
-| ðŸŒ **Open Source Collaborator** | Community |
-| ðŸŽ¤ **Speaking / Writing** | Tech Content |
+| **Senior/Staff AI Engineer** | Full-time |
+| **Founding Engineer** | AI Startup |
+| **Open Source Collaborator** | Community |
+| **Speaking / Writing** | Tech Content |
 
 <br/>
 
-**ðŸ“¬ Reach me:** [`amanhammadk@gmail.com`](mailto:amanhammadk@gmail.com)
+**Reach me:** [`amanhammadk@gmail.com`](mailto:amanhammadk@gmail.com)
 
 <br/>
 
@@ -283,14 +283,8 @@ Looking for:
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• FOOTER â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
-  <sub>
-    <img src="https://komarev.com/ghpvc/?username=amanhammadK&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
-    &nbsp;|&nbsp;
-    <sub>ðŸ“… Profile refreshed: May 2026</sub>
-    &nbsp;|&nbsp;
-    <sub>âš¡ Built with â¤ï¸, â˜•, and lots of ðŸŽ§</sub>
-  </sub>
+  <img src="https://raw.githubusercontent.com/amanhammadK/amanhammadK/main/.github/assets/footer.svg" width="100%" />
 </div>
