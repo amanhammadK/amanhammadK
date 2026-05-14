@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=700&color=FFD700&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Aman+Hammad;AI+Engineer+%7C+Fullstack+%26+AI+Architecture;I+ship+AI+apps+from+concept+to+production" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=700&color=FFD700&center=true&vCenter=true&width=500&lines=Aman+Hammad;AI+Engineer+%7C+Fullstack+%26+AI+Architecture;I+ship+AI+apps+from+concept+to+production" />
 </h1>
 
 <p align="center">
