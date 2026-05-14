@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=700&color=FFD700&center=true&vCenter=true&width=450&lines=Aman+Hammad;AI+Engineer;Fullstack+%26+AI+Architecture;Building+agents+that+act" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&duration=3500&pause=700&color=FFD700&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Aman+Hammad;AI+Engineer+%7C+Fullstack+%26+AI+Architecture;I+ship+AI+apps+from+concept+to+production" />
 </h1>
 
 <p align="center">
@@ -28,14 +28,14 @@ class AmanHammad:
     def __init__(self):
         self.role = "AI Engineer"
         self.focus = "Fullstack Systems, AI Architecture & B2B SaaS"
-        self.stack = {
-            "languages":   ["Python", "TypeScript", "JavaScript"],
-            "ai_agents":   ["LangChain", "LangGraph", "LiteLLM", "OpenAI", "Claude"],
-            "backend":     ["FastAPI", "Flask", "Express.js", "Chainlit", "Streamlit"],
-            "databases":   ["PostgreSQL", "MongoDB", "Qdrant"],
-            "frontend":    ["React", "Next.js", "Angular", "Tailwind"],
-            "infra":       ["Docker", "n8n", "GitHub Actions", "Linux"],
+        self.build = {
+            "ai_architecture":  ["LangChain", "LangGraph", "LiteLLM", "OpenAI", "Claude"],
+            "fullstack":        ["React", "Next.js", "Angular", "Node.js", "Express.js", "Tailwind"],
+            "backend":          ["Python", "FastAPI", "Flask", "Chainlit", "Streamlit"],
+            "databases":        ["PostgreSQL", "MongoDB", "Qdrant"],
+            "infra":            ["Docker", "n8n", "GitHub Actions", "Linux"],
         }
+        self.domains = ["B2B SaaS", "Marketplace Dev", "App Development", "AI Agents"]
         self.now = "Building agents that act, not just answer"
         self.vibe = "Ship fast. Let code speak."
 
@@ -65,6 +65,7 @@ class AmanHammad:
 
   <b>Backend & APIs</b><br/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Chainlit-FF6B6B?style=flat-square&logo=chainlit&logoColor=white" />
@@ -203,7 +204,7 @@ class AmanHammad:
 |--------|-------|
 | AI apps shipped | **6+** |
 | Solo-developed | **100%** |
-| Domains | **AI Agents, DevTools, B2B SaaS, FinTech, Mental Health** |
+| Domains | **B2B SaaS, Marketplace Dev, App Development, AI Agents** |
 | Years building | **3+** |
 | Languages | **Python, TypeScript, JavaScript** |
 
