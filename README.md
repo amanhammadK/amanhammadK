@@ -6,7 +6,7 @@
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3500&pause=700&color=8B0000&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Aman+Hammad;AI+Engineer+%7C+Fullstack+%26+AI+Architecture;Open+Source+Contributor;I+ship+AI+apps+from+concept+to+production" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3500&pause=700&color=8B0000&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Aman+Hammad;AI+Engineer+%7C+Fullstack+%26+AI+Architecture;I+ship+AI+apps+from+concept+to+production" />
 </h1>
 
 <p align="center">
@@ -175,25 +175,6 @@ class AmanHammad:
 
 <br/>
 
-<!-- ==================== OPEN SOURCE ==================== -->
-
-<details open>
-  <summary><b>Open Source Contributions</b></summary>
-  <br/>
-
-| Repository | PR / Issue | Status |
-|------------|-----------|--------|
-| [streamlit/streamlit](https://github.com/streamlit/streamlit) | [`#15186`](https://github.com/streamlit/streamlit/pull/15186) -- Add `size` parameter to `camera_input` | Merged |
-| [streamlit/streamlit](https://github.com/streamlit/streamlit) | [`#4320`](https://github.com/streamlit/streamlit/issues/4320) -- Consistent camera input dimensions | Reported |
-| [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | Exploring contribution opportunities | In Progress |
-| [tiangolo/fastapi](https://github.com/tiangolo/fastapi) | Exploring contribution opportunities | In Progress |
-
-> Building in public. Learning in public. Every PR makes the ecosystem better.
-
-</details>
-
-<br/>
-
 <!-- ==================== STATS ==================== -->
 
 <details open>
@@ -239,7 +220,6 @@ class AmanHammad:
 | Solo-Developed | **100%** |
 | Domains | **AI Agents, DevTools, B2B SaaS, FinTech, Mental Health** |
 | Years Building | **3+** |
-| Open Source PRs | **Active** |
 | Languages | **Python, TypeScript, JavaScript** |
 
 </div>
@@ -262,7 +242,6 @@ Looking for:
 |------|------|
 | **Senior/Staff AI Engineer** | Full-time |
 | **Founding Engineer** | AI Startup |
-| **Open Source Collaborator** | Community |
 | **Speaking / Writing** | Tech Content |
 
 <br/>
