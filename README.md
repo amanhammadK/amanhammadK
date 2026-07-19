@@ -1,152 +1,95 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=700&color=FFD700&center=true&vCenter=true&width=500&lines=Aman+Hammad;AI+Engineer+%7C+Fullstack+%26+AI+Architecture;I+ship+AI+apps+from+concept+to+production" />
-</h1>
-
+<h1 align="center">Aman Hammad</h1>
 <p align="center">
-  <a href="https://github.com/amanhammadK"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/amanhammadk"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:amanhammadk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/amanhammadk"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <b>AI Engineer · Full-Stack Architect</b><br/>
+  <i>I build AI systems that actually ship.</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanhammadK&style=flat-square&color=FFD700&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/amanhammadK?style=flat-square&color=FFD700&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/amanhammadK?style=flat-square&color=FFD700&label=STARS" />
+  <a href="https://github.com/amanhammadK"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aman-hammad-509445380"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:amanhammadk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://aman-hammad-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
-
-<br/>
-
-<details open>
-  <summary><b>About Me</b></summary>
-  <br/>
-
-```python
-class AmanHammad:
-    """I build AI systems that actually work."""
-
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.focus = "Fullstack Systems, AI Architecture & B2B SaaS"
-        self.build = {
-            "ai_architecture":  ["LangChain", "LangGraph", "LiteLLM", "OpenAI", "Claude"],
-            "fullstack":        ["React", "Next.js", "Angular", "Node.js", "Express.js", "Tailwind"],
-            "backend":          ["Python", "FastAPI", "Flask", "Chainlit", "Streamlit"],
-            "databases":        ["PostgreSQL", "MongoDB", "Qdrant"],
-            "infra":            ["Docker", "n8n", "GitHub Actions", "Linux"],
-        }
-        self.domains = ["B2B SaaS", "Marketplace Dev", "App Development", "AI Agents"]
-        self.now = "Building agents that act, not just answer"
-        self.vibe = "Ship fast. Let code speak."
-
-    def mission(self):
-        return "Solve real problems with AI. Nothing else."
-```
-
-</details>
-
-<br/>
-
-<details open>
-  <summary><b>Tech Stack</b></summary>
-  <br/>
 
 <p align="center">
-  <b>AI & Agents</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-6C47FF?style=flat-square&logo=langgraph&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-FF6B35?style=flat-square&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/LiteLLM-6C47FF?style=flat-square&logo=litellm&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <br/><br/>
-
-  <b>Backend & APIs</b><br/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chainlit-FF6B6B?style=flat-square&logo=chainlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <br/><br/>
-
-  <b>Frontend & Full-Stack</b><br/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <br/><br/>
-
-  <b>Databases & DevOps</b><br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-FF0000?style=flat-square&logo=qdrant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-212121?style=flat-square&logo=n8n&logoColor=EA7600" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=amanhammadK&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/followers/amanhammadK?style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/stars/amanhammadK?style=flat-square&color=blue" />
 </p>
 
-</details>
+---
 
-<br/>
+## About Me
 
-<details open>
-  <summary><b>Projects</b></summary>
-  <br/>
+I'm an AI Engineer with 2 years of hands-on experience building production-grade AI platforms, financial trading systems, and developer tooling. I specialize in:
 
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>Project</b></td>
-      <td><b>Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/AI-Slop-Linter-for-code"><b>AI-Slop-Linter</b></a></td>
-      <td>Catches AI hallucinations and LLM antipatterns in codebases</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/commit-message-ai"><b>commit-message-ai</b></a></td>
-      <td>Writes git commit messages using AI</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/model-hop"><b>model-hop</b></a></td>
-      <td>Compare GPT-4, Claude and Gemini side by side</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/code-review-agent"><b>code-review-agent</b></a></td>
-      <td>Auto-reviews your PRs with AI</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/json-to-schema"><b>json-to-schema</b></a></td>
-      <td>Convert JSON to Pydantic, TypeScript or Zod schemas</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/killport"><b>killport</b></a></td>
-      <td>Kill whichever process is hogging your port</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/prompt-optimizer"><b>prompt-optimizer</b></a></td>
-      <td>A/B test and version your LLM prompts</td>
-    </tr>
-  </tbody>
-</table>
+- **LLM Orchestration** – LangGraph, LangChain, multi-agent workflows
+- **Real-Time Systems** – WebSocket streaming, market data pipelines, caching
+- **Full-Stack Development** – Python, TypeScript, React, Next.js, FastAPI
+- **Infrastructure** – Docker, PostgreSQL, Redis, Kong, CI/CD
 
-</details>
+I've shipped a multi-agent marketplace hosting **75+ AI products**, built **15+ MCP servers**, and developed financial platforms serving **500+ active users**.
 
-<br/>
+---
 
-<details open>
-  <summary><b>GitHub Analytics</b></summary>
-  <br/>
+## What I'm Currently Building
+
+| Project | Status | Description |
+|---------|--------|-------------|
+| **FinanceGPT** | Private (Commercial) | Conversational trading assistant with LangGraph, real-time data, and paper trading |
+| **NxM Marketplace** | Private (Commercial) | AI product marketplace with escrow, 75+ products, and trust framework |
+| **BullzEye** | Private (Commercial) | AI-powered stock trading platform with bullish detection |
+| **MCP Server Ecosystem** | Private (Commercial) | 15+ standardized MCP servers and AI agents |
+
+> ⚠️ **Source code is private** – these are commercial products I'm actively selling.
+
+---
+
+## Open Source Projects
+
+Here's what I've open-sourced:
+
+| Project | Stack | Purpose |
+|---------|-------|---------|
+| **[AI-Slop-Linter](https://github.com/amanhammadK/AI-Slop-Linter-for-code)** | Python, regex | Detects AI hallucinations, lazy placeholders, and LLM antipatterns in code |
+| **[model-hop](https://github.com/amanhammadK/model-hop)** | Python, LiteLLM | Compare latency/cost across OpenAI, Claude, Gemini, and local models |
+| **[commit-message-ai](https://github.com/amanhammadK/commit-message-ai)** | Python, OpenAI | AI-powered conventional commit message generator |
+| **[json-to-schema](https://github.com/amanhammadK/json-to-schema)** | Python, Pydantic | Convert JSON to Pydantic, TypeScript, or Zod schemas |
+| **[killport](https://github.com/amanhammadK/killport)** | Python, CLI | Kill processes hogging a specific port |
+| **[prompt-optimizer](https://github.com/amanhammadK/prompt-optimizer)** | Python, LangChain, Streamlit | A/B testing framework for LLM system prompts |
+| **[code-review-agent](https://github.com/amanhammadK/code-review-agent)** | TypeScript, GitHub Actions | Automated PR review with LangChain and GPT-4 |
+
+---
+
+## Tech Stack
+
+**AI & LLMs**
+- LangChain, LangGraph, LiteLLM, Chainlit
+- OpenAI, Claude, Gemini, Groq, DeepSeek-R1, Ollama
+- HuggingFace, PyTorch, Qdrant
+
+**Backend**
+- Python, FastAPI, Flask, Node.js, Express
+- PostgreSQL, MongoDB, Redis
+- gRPC, GraphQL, REST, WebSocket
+
+**Frontend**
+- React, Next.js, TypeScript
+- Tailwind, shadcn/ui, Three.js
+- Angular, Streamlit
+
+**Infrastructure**
+- Docker, Docker Compose
+- Kong API Gateway, HashiCorp Vault
+- GitHub Actions, Linux
+- Vercel, Railway, Render
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanhammadK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanhammadK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanhammadK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -154,70 +97,27 @@ class AmanHammad:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanhammadK&theme=tokyonight&hide_border=true" />
 </div>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amanhammadK&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-</div>
+## Certifications
 
-<br/>
+- **PIAIC** – Certified Agentic AI Architect (Level 1 & 2) + Prompt Engineering
+- **Harvard** – Machine Learning & AI with Python (2026) · CS50 (2024)
+- **MIT** – Machine Learning (2025)
+- **IBM** – RAG and Agentic AI Professional (2025)
+- **Google** – AI Professional Specialization (7 certs, 2026)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanhammadK&theme=tokyonight&hide_border=true&bg_color=0d1117&area=true" />
-</div>
+---
 
-</details>
+## Connect
 
-<br/>
+📧 amanhammadk@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/aman-hammad-509445380)  
+🌐 [Portfolio](https://aman-hammad-portfolio.vercel.app)  
+🐦 [Twitter/X](https://twitter.com/amanhammadk)
 
-<details open>
-  <summary><b>What I've Shipped</b></summary>
-  <br/>
+---
 
-<div align="center">
-
-| App | Stack |
-|-----|-------|
-| **AI-Slop-Linter** | Python, LangChain, GitHub Actions |
-| **commit-message-ai** | Python, OpenAI, CLI |
-| **model-hop** | Python, LiteLLM, Streamlit |
-| **code-review-agent** | TypeScript, GitHub Actions |
-| **json-to-schema** | Python, Pydantic |
-| **killport** | Python, CLI |
-| **prompt-optimizer** | Python, LangChain, Streamlit |
-
-</div>
-
-</details>
-
-<br/>
-
-<details open>
-  <summary><b>Let's Connect</b></summary>
-  <br/>
-
-<div align="center">
-
-Currently looking for:
-
-| Role | Type |
-|------|------|
-| **Senior/Staff AI Engineer** | Full-time |
-| **Founding Engineer** | AI Startup |
-| **Speaking / Writing** | Tech Content |
-
-<br/>
-
-Reach me: [`amanhammadk@gmail.com`](mailto:amanhammadk@gmail.com)
-
-<br/>
-
-<p>
-  <a href="https://github.com/amanhammadK"><img src="https://img.shields.io/badge/GitHub-amanhammadK-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/amanhammadk"><img src="https://img.shields.io/badge/LinkedIn-amanhammadk-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/amanhammadk"><img src="https://img.shields.io/badge/Twitter-@amanhammadk-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+<p align="center">
+  <i>"Ship fast. Let code speak."</i>
 </p>
-
-</div>
-
-</details>
