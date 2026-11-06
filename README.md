@@ -95,53 +95,6 @@ class AmanHammad:
 <br/>
 
 <details open>
-  <summary><b>Projects</b></summary>
-  <br/>
-
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>Project</b></td>
-      <td><b>Description</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/AI-Slop-Linter-for-code"><b>AI-Slop-Linter</b></a></td>
-      <td>Catches AI hallucinations and LLM antipatterns in codebases</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/commit-message-ai"><b>commit-message-ai</b></a></td>
-      <td>Writes git commit messages using AI</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/model-hop"><b>model-hop</b></a></td>
-      <td>Compare GPT-4, Claude and Gemini side by side</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/code-review-agent"><b>code-review-agent</b></a></td>
-      <td>Auto-reviews your PRs with AI</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/json-to-schema"><b>json-to-schema</b></a></td>
-      <td>Convert JSON to Pydantic, TypeScript or Zod schemas</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/killport"><b>killport</b></a></td>
-      <td>Kill whichever process is hogging your port</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/amanhammadK/prompt-optimizer"><b>prompt-optimizer</b></a></td>
-      <td>A/B test and version your LLM prompts</td>
-    </tr>
-  </tbody>
-</table>
-
-</details>
-
-<br/>
-
-<details open>
   <summary><b>GitHub Analytics</b></summary>
   <br/>
 
@@ -171,51 +124,19 @@ class AmanHammad:
 <br/>
 
 <details open>
-  <summary><b>What I've Shipped</b></summary>
+  <summary><b>Work With Me</b></summary>
   <br/>
 
 <div align="center">
 
-| App | Stack |
-|-----|-------|
-| **AI-Slop-Linter** | Python, LangChain, GitHub Actions |
-| **commit-message-ai** | Python, OpenAI, CLI |
-| **model-hop** | Python, LiteLLM, Streamlit |
-| **code-review-agent** | TypeScript, GitHub Actions |
-| **json-to-schema** | Python, Pydantic |
-| **killport** | Python, CLI |
-| **prompt-optimizer** | Python, LangChain, Streamlit |
-
-</div>
-
-</details>
-
-<br/>
-
-<details open>
-  <summary><b>Let's Connect</b></summary>
-  <br/>
-
-<div align="center">
-
-Currently looking for:
-
-| Role | Type |
-|------|------|
-| **Senior/Staff AI Engineer** | Full-time |
-| **Founding Engineer** | AI Startup |
-| **Speaking / Writing** | Tech Content |
-
-<br/>
-
-Reach me: [`amanhammadk@gmail.com`](mailto:amanhammadk@gmail.com)
+I am available for **AI Solutions Architecture**, **Technical AI Consultation & Advisory**, and **Production Multi-Agent / AI Systems Engineering** engagements.
 
 <br/>
 
 <p>
+  <a href="https://www.linkedin.com/in/aman-hammad-509445380"><img src="https://img.shields.io/badge/LinkedIn-amanhammadk-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:amanhammadk@gmail.com"><img src="https://img.shields.io/badge/Email-amanhammadk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/amanhammadK"><img src="https://img.shields.io/badge/GitHub-amanhammadK-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/amanhammadk"><img src="https://img.shields.io/badge/LinkedIn-amanhammadk-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/amanhammadk"><img src="https://img.shields.io/badge/Twitter-@amanhammadk-1DA1F2?style=for-the-badge&logo=twitter" /></a>
 </p>
 
 </div>
