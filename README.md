@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=700&color=FFD700&center=true&vCenter=true&width=500&lines=Aman+Hammad;AI+Engineer+%7C+Fullstack+%26+AI+Architecture;I+ship+AI+apps+from+concept+to+production" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&duration=3500&pause=700&color=29ecf3&center=true&vCenter=true&width=500&lines=Aman+Hammad;AI+Engineer+%7C+Fullstack+%26+AI+Architecture;I+ship+AI+apps+from+concept+to+production" />
 </h1>
 
 <p align="center">
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanhammadK&style=flat-square&color=FFD700&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/amanhammadK?style=flat-square&color=FFD700&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/amanhammadK?style=flat-square&color=FFD700&label=STARS" />
+  <img src="https://komarev.com/ghpvc/?username=amanhammadK&style=flat-square&color=29ecf3&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/amanhammadK?style=flat-square&color=29ecf3&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/amanhammadK?style=flat-square&color=29ecf3&label=STARS" />
 </p>
 
 <br/>
@@ -99,12 +99,12 @@ class AmanHammad:
   <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanhammadK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanhammadK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanhammadK&show_icons=true&theme=tokyonight&title_color=29ecf3&icon_color=29ecf3&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanhammadK&layout=compact&langs_count=8&theme=tokyonight&title_color=29ecf3&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanhammadK&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanhammadK&theme=tokyonight&ring=29ecf3&fire=29ecf3&currStreakLabel=29ecf3&hide_border=true" />
 </div>
 
 <br/>
@@ -116,7 +116,7 @@ class AmanHammad:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanhammadK&theme=tokyonight&hide_border=true&bg_color=0d1117&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanhammadK&theme=tokyonight&color=29ecf3&line=29ecf3&point=ffffff&hide_border=true&bg_color=0d1117&area=true" />
 </div>
 
 </details>
